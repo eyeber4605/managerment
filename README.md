@@ -1,4 +1,4 @@
-## Mnagerment System
+## Management System
 본 프로젝트는 React초보 개발자가 개발/테스트 목적으로 만들어진 시스템입니다.
 
 # Getting Started with Create React App
